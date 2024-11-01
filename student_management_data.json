@@ -1,0 +1,1 @@
+{"students": [{"name": "Abul", "age": 23, "address": "Dhaka", "student_id": "44", "grades": {"GD": "A+"}, "courses": ["GD"]}], "courses": [{"course_name": "GD", "course_code": "23", "instructor": "Aks", "students": ["44"]}]}
